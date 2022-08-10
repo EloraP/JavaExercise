@@ -188,9 +188,8 @@ public class ArrayEx {
 	
 	public static void main(String[] args) {
 		
+		String output = parseToString(110).substring(1);
 		
-		
-		
-		System.out.println(parseToString(110));
+		System.out.println(output);
 	}
 }
